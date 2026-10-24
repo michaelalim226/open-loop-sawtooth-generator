@@ -1,0 +1,20 @@
+# KiCad project files to ignore
+*.kicad_prl
+fp-info-cache
+fp-lib-table-bak
+sym-lib-table-bak
+
+# KiCad backup files
+*-backups/
+#auto_saved_files#
+_autosave-*
+~*.lck
+*.bak
+*.bck
+*.tmp
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+__pycache__/
+desktop.ini
